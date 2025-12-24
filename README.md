@@ -2,7 +2,7 @@
 - 👀 I’m interested in fpgas, python, c, & risc v
 - 🌱 I’m currently learning c
 
-- im only really starting to get decent at github as of december 2025 so excuse any poor commits
+- im only really starting to get decent at github as of december 2025 so excuse any poor commits or mid repositories
 
 <!---
 jet689/jet689 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
